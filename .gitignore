@@ -1,0 +1,9 @@
+.#*
+\#*#
+*~
+_site/*
+_cache/*
+dist/*
+cabal-dev/*
+*.o
+*.hi
