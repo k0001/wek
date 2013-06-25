@@ -32,6 +32,23 @@ body {
     }
 }
 
+p {
+    line-height: 1.4em;
+    margin-bottom: 1.7em;
+}
+
+pre {
+    margin-bottom: 1.7em;
+}
+
+ul {
+    margin-bottom: 1.7em;
+}
+
+ol {
+    margin-bottom: 1.7em;
+}
+
 /* Custom page CSS
    -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
